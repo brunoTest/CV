@@ -12,7 +12,7 @@ nav {
 /* hero section */
 .hero {
   text-align: center;
-  background-color: var(--bg-color);
+  background-color: white;
   padding: 2rem 0 10rem 0;
 }
 
